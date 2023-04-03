@@ -41,49 +41,5 @@
     "placement_position": { "x": 1.5998, "y": 1.1, "z": 5.16068 },
     "placement_rotation": { "x": 0, "y": -90, "z": 0 },
     "placement_scale": { "x": 0.3, "y": 0.3, "z": 0.3 }
-  },
-  "4": {
-    "barcode_value": 4,
-    "model_name": "building1",
-    "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/building_2/Apartment.gltf",
-    "position": { "x": 2, "y": 0, "z": 0 },
-    "rotation": { "x": 0, "y": 0, "z": 0 },
-    "scale": { "x": 0.5, "y": 0.5, "z": 0.5 },
-    "placement_position": { "x": 7.44267, "y": 0.93481, "z": -1.5 },
-    "placement_rotation": { "x": 0, "y": 0, "z": 0 },
-    "placement_scale": { "x": 0.3, "y": 0.3, "z": 0.3 }
-  },
-  "5": {
-    "barcode_value": 5,
-    "model_name": "building2",
-    "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/building_apartment_2/scene.gltf",
-    "position": { "x": 2, "y": 0, "z": 0 },
-    "rotation": { "x": 0, "y": 0, "z": 0 },
-    "scale": { "x": 0.009, "y": 0.009, "z": 0.009 },
-    "placement_position": { "x": 2.22556, "y": 0.93481, "z": -2.1 },
-    "placement_rotation": { "x": 0, "y": 0, "z": 0 },
-    "placement_scale": { "x": 0.005, "y": 0.005, "z": 0.005 }
-  },
-  "6": {
-    "barcode_value": 6,
-    "model_name": "building3",
-    "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/building_2/Apartment.gltf",
-    "position": { "x": 2, "y": 0, "z": 0 },
-    "rotation": { "x": 0, "y": 0, "z": 0 },
-    "scale": { "x": 0.5, "y": 0.5, "z": 0.5 },
-    "placement_position": { "x": -2.6774, "y": 0.93481, "z": -1.5 },
-    "placement_rotation": { "x": 0, "y": 0, "z": 0 },
-    "placement_scale": { "x": 0.3, "y": 0.3, "z": 0.3 }
-  },
-  "7": {
-    "barcode_value": 7,
-    "model_name": "tree",
-    "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/tree/OakTree.gltf",
-    "position": { "x": 2, "y": 1, "z": 0 },
-    "rotation": { "x": 0, "y": 0, "z": 0 },
-    "scale": { "x": 0.5, "y": 0.5, "z": 0.5 },
-    "placement_position": { "x": -6.95102, "y": 0.93481, "z": -1.5 },
-    "placement_rotation": { "x": 0, "y": 0, "z": 0 },
-    "placement_scale": { "x": 0.2, "y": 0.2, "z": 0.2 }
   }
 }
